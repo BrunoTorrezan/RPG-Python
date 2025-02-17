@@ -1,2 +1,2 @@
 import pygame
-print('teste')
+print('teste 2')
